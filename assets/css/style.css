@@ -1,0 +1,20 @@
+.giphy{
+	margin-left:5px;
+}
+
+body{
+	margin:10px;
+}
+
+label{
+	margin-top:20px;
+}
+
+img{
+
+	margin: 5px;
+}
+
+#imageDiv{
+	display:inline-block;
+}
